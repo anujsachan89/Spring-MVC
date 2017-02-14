@@ -1,0 +1,5 @@
+package levelup.world.domain.validation;
+
+public class CountryValidation {
+
+}

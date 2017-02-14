@@ -1,0 +1,5 @@
+package levelup.world.dao.hibernate;
+
+public class HibernateCountryDao {
+
+}

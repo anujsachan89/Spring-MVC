@@ -1,0 +1,5 @@
+package levelup.world.domain.service;
+
+public class WorldService {
+
+}

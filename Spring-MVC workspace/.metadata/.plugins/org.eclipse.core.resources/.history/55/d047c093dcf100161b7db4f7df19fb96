@@ -1,0 +1,21 @@
+package levelup.world.web;
+
+
+@Controller
+public class CountryController {
+ 
+@Autowired
+private WorldService worldService;
+ 
+@RequestMapping("/countryList.html")
+@ModelAttribute("countries")
+public Collection<Country> getCountries() {
+return worldService.getAllCountries();
+}
+ 
+@RequestMapping("/countryDetails.html")
+public Country getCountry(@RequestParam(value="id", required=true) int countryId) {
+return worldService.getCountryById(countryId);
+}
+ 
+}

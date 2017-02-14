@@ -1,0 +1,8 @@
+package controller;
+
+public class Student {
+
+	private String studentName;
+	private String studentHobby;
+	
+}

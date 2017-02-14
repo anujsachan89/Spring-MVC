@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item value="All Catalogs" key="catalog"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="/home/bridgeit/Anuj/Spring-MVC workspace/SpringMVC3"/>
+			<item value="/home/bridgeit/Anuj/Spring-MVC workspace/SpringMVC11"/>
+			<item value="/home/bridgeit/Anuj/Spring-MVC workspace/SpringMVC10/pom.xml"/>
+			<item value="/home/bridgeit/Anuj/Spring-MVC workspace/SpringMVC9/src/test"/>
+			<item value="/home/bridgeit/Anuj/Spring-MVC workspace/SpringMVC6"/>
+			<item value="/home/bridgeit/Anuj/Spring-MVC workspace/SpringMVC7/src"/>
+			<item value="/home/bridgeit/Anuj/Spring-MVC workspace/SpringMVC4"/>
+			<item value="/home/bridgeit/Anuj/Spring-MVC workspace/SpringMVC5/target"/>
+			<item value="/home/bridgeit/Anuj/Spring-MVC workspace/SpringMVC5/src/main/webapp/index.jsp"/>
+			<item value="/home/bridgeit/Anuj/Spring-MVC workspace/SpringMVC5/src/main"/>
+			<item value="/home/bridgeit/Anuj/Spring-MVC workspace/SpringMVC4/target"/>
+			<item value="/home/bridgeit/Anuj/Spring-MVC workspace/SpringMVC3/target"/>
+			<item value="/home/bridgeit/Anuj/Spring-MVC workspace/SpringMVC2/src/main/java"/>
+			<item value="/home/bridgeit/Anuj/Spring-MVC workspace/SpringMVC-1"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.bridgelabz.IPL"/>
+			<item value="com.bridgelabz.SpringMVC13"/>
+			<item value="com.bridgelabz.SpringMVC12"/>
+			<item value="com.bridgelabz.SpringMVC11"/>
+			<item value="com.bridgelabz.SpringMVC10"/>
+			<item value="com.bridgelabz.SpringMVC9"/>
+			<item value="com.bridgelabz.SpringMVC8"/>
+			<item value="com.bridgelabz.SpringMVC7"/>
+			<item value="com.bridgelabz.SpringMVC6"/>
+		</list>
+		<list key="groupId">
+			<item value="com.bridgelabz"/>
+		</list>
+		<list key="artifactId">
+			<item value="IPL"/>
+			<item value="SpringMVC13"/>
+			<item value="SpringMVC12"/>
+			<item value="SpringMVC11"/>
+			<item value="SpringMVC10"/>
+			<item value="SpringMVC9"/>
+			<item value="SpringMVC8"/>
+			<item value="SpringMVC7"/>
+			<item value="SpringMVC6"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>
